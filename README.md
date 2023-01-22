@@ -154,7 +154,7 @@ urlpatterns = [
 
 ## OUTPUT:
 
-![output](./home/project/serversideprocessing/output.jpg)
+![output](./output.jpg)
 
 ### Home Page:
 
