@@ -30,6 +30,7 @@ Create a HTML file of forms.
 Publish the website in the given URL.
 
 ## PROGRAM :
+
 HTML CODE:
 ```
 <!DOCTYPE html>
@@ -98,6 +99,7 @@ HTML CODE:
 </html>
 ```
 Views.py:
+
 ```
 from django.shortcuts import render
 from django.contrib.auth.decorators import permission_required
@@ -124,6 +126,7 @@ def serverside(request):
     return render(request,"html/serverside.html",context)
 ```
 Urls.py:
+
 ```
     """serverside URL Configuration
 
