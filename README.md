@@ -157,7 +157,7 @@ urlpatterns = [
 
 ## OUTPUT:
 
-![output](./output.jpg)
+![ouput](https://user-images.githubusercontent.com/118791778/213904999-9c91a865-8cfa-494c-802d-61913900041e.png)
 
 ### Home Page:
 
